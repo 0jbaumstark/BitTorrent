@@ -12,11 +12,10 @@ function numberOfPackets(fileSize){
 //second function
 function buildTorrentPackeyArray(numOfPackets){
     let list;
-    let length;
-
-    for (let i=0; i < length, i++){
+    let numOfPackets;
+    for (let i=0; i < numOfPackets, i++;){
         list [i]= 1
+    }
 }
-
 
 //main test methods
