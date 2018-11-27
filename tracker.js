@@ -28,3 +28,15 @@ function addSeed(s)
   }
  }
 }
+
+function findName(name)
+let index = 0
+for(let i=0, i < list.length; i++){
+  if(list [i] === name){;
+    return null
+  }
+}
+
+function reportHealth(){
+
+} 
