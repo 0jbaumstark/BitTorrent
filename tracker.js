@@ -38,5 +38,22 @@ for(let i=0, i < list.length; i++){
 }
 
 function reportHealth(){
+ let sum = 0 
+ count = 0
+ for(i=0; i<precent.length; i++){
+   if(precent[i] !==0){
+     sum=sum+precent[i];
+     count++
+   }
+   return sum/count 
+ }
 
+ function update(precent){
+   for(i=0; i<precent/length; i++){
+     let r= Math.random
+     if(r>precent [i]){
+       precent [i] = r;
+     }
+   }
+ }
 } 
